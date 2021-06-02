@@ -17,6 +17,7 @@ Expense-Manager-Application
 ![Screenshot of Application Add Expense](https://i.ibb.co/Vv5TncF/Screenshot-2021-06-02-at-8-17-17-PM.png)
 
   - If no expense in selected year
+  
 ![Screenshot of Application Add Expense](https://i.ibb.co/MVdgdZn/Screenshot-2021-06-02-at-8-17-26-PM.png)
 
   - Full Page
